@@ -1,0 +1,2 @@
+mkdir target
+javac -d
